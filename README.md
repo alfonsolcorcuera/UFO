@@ -3,7 +3,7 @@
 
 ## Objective
 
-To build a webpage and dynamic table in which users are able to filter the UFO sightsings data by multiple criteria at the same time (i.e. date, city, state, country and shape).
+To build a webpage with a dynamic table in which users are able to filter the UFO sightsings data by multiple criteria at the same time (i.e. date, city, state, country and shape).
 
 
 ## Results
